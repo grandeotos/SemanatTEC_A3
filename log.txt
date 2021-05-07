@@ -1,0 +1,29 @@
+commit 47d2b39bb1aaab8df825130ecccef5213a1d1c5f
+Author: SnipperPlayer <galeana2002@hotmail.com>
+Date:   Thu May 6 20:25:55 2021 -0500
+
+    A01424645
+
+commit 306c792c8a2b6c6b132c91b9d76dd18922c1dcfd
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 14:11:26 2021 -0500
+
+    Los fantasmas eran tan rapidos que se le redujo la velocidad
+
+commit dc794bff1e33b57d2acc8bada61bf5c2db376f9b
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 14:06:25 2021 -0500
+
+    Añadido velocidad a fantasmas
+
+commit dc3692353d22b36d4b984490d5417d4e0d987842
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 13:27:57 2021 -0500
+
+    First commit
+
+commit 4ca68cbe3faf821eb1e5faa6a120b20516f10cf5
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 13:19:34 2021 -0500
+
+    Initial commit
